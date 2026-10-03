@@ -1,0 +1,19 @@
+{
+  "name": "@stupidinu/agent-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node --enable-source-maps dist/index.js"
+  },
+  "dependencies": {
+    "@stupidinu/market-data": "file:../../packages/market-data",
+    "@stupidinu/policy-engine": "file:../../packages/policy-engine",
+    "@stupidinu/reasoning": "file:../../packages/reasoning",
+    "@stupidinu/reward-accounting": "file:../../packages/reward-accounting",
+    "@stupidinu/shared-types": "file:../../packages/shared-types"
+  }
+}

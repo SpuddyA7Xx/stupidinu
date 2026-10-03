@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/shared-types" },
+    { "path": "./packages/market-data" },
+    { "path": "./packages/reward-accounting" },
+    { "path": "./packages/policy-engine" },
+    { "path": "./packages/reasoning" },
+    { "path": "./packages/agency-adapter" },
+    { "path": "./packages/solana-client" },
+    { "path": "./apps/agent-runtime" }
+  ]
+}

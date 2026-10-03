@@ -1,0 +1,17 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "composite": true,
+    "baseUrl": ".",
+    "paths": {
+      "@stupidinu/market-data": ["../../packages/market-data/src"],
+      "@stupidinu/policy-engine": ["../../packages/policy-engine/src"],
+      "@stupidinu/reasoning": ["../../packages/reasoning/src"],
+      "@stupidinu/reward-accounting": ["../../packages/reward-accounting/src"],
+      "@stupidinu/shared-types": ["../../packages/shared-types/src"]
+    }
+  },
+  "include": ["src/**/*.ts"]
+}
