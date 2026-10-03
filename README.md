@@ -1,4 +1,6 @@
-# Stupidinu
+<img width="2172" height="724" alt="Paradis néon de $STUPIDINU" src="https://github.com/user-attachments/assets/1c2847c3-0a14-4a0b-97de-54efeb15d5f4" />
+
+# Stupidinu by SpuddyA7X
 
 Stupidinu is an experimental autonomous memecoin protocol designed as a serious engineering sandbox around the absurd idea that every coin gets a mind. The project is intentionally split between implemented, simulated, and unimplemented components so the repository remains honest about what is live and what still requires external verification.
 
