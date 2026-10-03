@@ -2,6 +2,8 @@
 
 # Stupidinu by SpuddyA7X
 
+CA: 3x5MCwmXKZiERV8rsDue4PMSxrhgAvQxJBZKrqZFpump
+
 Stupidinu is an experimental autonomous memecoin protocol designed as a serious engineering sandbox around the absurd idea that every coin gets a mind. The project is intentionally split between implemented, simulated, and unimplemented components so the repository remains honest about what is live and what still requires external verification.
 
 ## Why this exists
